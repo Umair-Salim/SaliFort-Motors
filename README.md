@@ -1,4 +1,4 @@
-**<h1 style="text-align: left;">![image](images/\Human-resources.png)</h1>**
+**<h1 style="text-align: left;">![image](images/Human-resources.png)</h1>**
 **<h1 style="text-align: center;"> GADA Capstone: Salifort-Motors Project</h1>**
 
 ## Contents
